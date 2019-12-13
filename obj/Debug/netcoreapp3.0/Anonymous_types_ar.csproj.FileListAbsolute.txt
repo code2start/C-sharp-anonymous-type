@@ -1,0 +1,11 @@
+C:\Users\Mohamed\source\repos\Anonymous_types_ar\bin\Debug\netcoreapp3.0\Anonymous_types_ar.exe
+C:\Users\Mohamed\source\repos\Anonymous_types_ar\bin\Debug\netcoreapp3.0\Anonymous_types_ar.deps.json
+C:\Users\Mohamed\source\repos\Anonymous_types_ar\bin\Debug\netcoreapp3.0\Anonymous_types_ar.runtimeconfig.json
+C:\Users\Mohamed\source\repos\Anonymous_types_ar\bin\Debug\netcoreapp3.0\Anonymous_types_ar.runtimeconfig.dev.json
+C:\Users\Mohamed\source\repos\Anonymous_types_ar\bin\Debug\netcoreapp3.0\Anonymous_types_ar.dll
+C:\Users\Mohamed\source\repos\Anonymous_types_ar\bin\Debug\netcoreapp3.0\Anonymous_types_ar.pdb
+C:\Users\Mohamed\source\repos\Anonymous_types_ar\obj\Debug\netcoreapp3.0\Anonymous_types_ar.csprojAssemblyReference.cache
+C:\Users\Mohamed\source\repos\Anonymous_types_ar\obj\Debug\netcoreapp3.0\Anonymous_types_ar.AssemblyInfoInputs.cache
+C:\Users\Mohamed\source\repos\Anonymous_types_ar\obj\Debug\netcoreapp3.0\Anonymous_types_ar.AssemblyInfo.cs
+C:\Users\Mohamed\source\repos\Anonymous_types_ar\obj\Debug\netcoreapp3.0\Anonymous_types_ar.dll
+C:\Users\Mohamed\source\repos\Anonymous_types_ar\obj\Debug\netcoreapp3.0\Anonymous_types_ar.pdb
